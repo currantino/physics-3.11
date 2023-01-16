@@ -19,13 +19,14 @@
 # Обработка измерений  
 1. Вычислим логарифмический декремент по формуле $\lambda = \dfrac{1}{n}\ln(\dfrac{U_{i}}{U_{i+n}})$ и построим график зависимости $\lambda(R_{M})$, где $R_{M}$ - сопротивление из магазина
 
-|![image](https://raw.githubusercontent.com/currantino/physics-3-11/master/plots/lambda(RM).png)|
+
+|![image](https://raw.githubusercontent.com/currantino/physics-3-11/master/plots/omega_res(1c).png)|
 |:--:|
 |Рис. 1|
 
 Если аппроксимировать начальный участок графика ($R_{M} \leq 100\ \Omega$) прямой, получим $\lambda(R_{M}) \approx 0,005R_{M} + 0,309 $
 
-|![image2](https://raw.githubusercontent.com/currantino/physics-3-10/master/plots/lambda(Rm)2.png)|
+|![image2](https://raw.githubusercontent.com/currantino/physics-3-11/master/plots/voltage(frequency).png)|
 |:--:|
 |Рис. 2|
 
