@@ -23,15 +23,15 @@
 по лабораторной работе.
 
 
-|![image](https://github.com/currantino/physics-3.11/plots/voltage(frequency).png)|
+|![image](https://raw.githubusercontent.com/currantino/physics-3.11/master/plots/voltage(frequency).png)|
 |:--:|
 |Рис. 1|
 
-На графике видно, что амплитуда выходного напряжения достигает максимума при частоте входного напряжения $ \Omega_{res} \approx 7853,98\ рад/с $,
+На графике видно, что амплитуда выходного напряжения достигает максимума при частоте входного напряжения $\Omega_{res} \approx 7853,98\ рад/c$,
 что отличается от рассчитанного значения $\Omega_{res_{расч}} \approx 10053,09\ рад/с$ на $2199,11\ рад/с.$
 
-2. По построенному графику, с помощью формулы $ Q = \dfrac{\Omega_0}{\Delta\Omega}$, оцените величину добротности контура. Результат внесите в отчет.
-$ Q = \dfrac{\Omega_0}{\Delta\Omega}$, $\Omega_0$ -  резонансная частота, $\Delta\Omega$ - ширина резонансной кривой на высоте равной
+2. По построенному графику, с помощью формулы $Q = \dfrac{\Omega_0}{\Delta\Omega}$, оцените величину добротности контура. Результат внесите в отчет.
+$Q = \dfrac{\Omega_0}{\Delta\Omega}$, $\Omega_0$ -  резонансная частота, $\Delta\Omega$ - ширина резонансной кривой на высоте равной
 $\dfrac{1}{\sqrt{2}}$ от максимальной(резонансной).
 $Q_{граф} = \dfrac{\Omega_0}{\Delta\Omega} = \dfrac{7853}{1400} \approx 3,27$
 
@@ -46,7 +46,7 @@ $Q_{расч} = \dfrac{U_{C_{res}}}{\varepsilon_{0}} = \dfrac{1}{R}\sqrt{\dfrac{
 По угловому коэффициенту графика найдите индуктивность, учитывая формулу:
 $\Omega_{res}^2 = \dfrac{1}{LC} - \dfrac{R^2}{4L^2}$
 
-|![image2](https://raw.githubusercontent.com/currantino/physics-3-11/master/plots/omega_res(1c).png|
+|![image2](https://raw.githubusercontent.com/currantino/physics-3.11/master/plots/voltage(frequency).png).png|
 |:--:|
 |Рис. 2|
 
