@@ -46,7 +46,7 @@ $Q_{расч} = \dfrac{U_{C_{res}}}{\varepsilon_{0}} = \dfrac{1}{R}\sqrt{\dfrac{
 По угловому коэффициенту графика найдите индуктивность, учитывая формулу:
 $\Omega_{res}^2 = \dfrac{1}{LC} - \dfrac{R^2}{4L^2}$
 
-|![image2](https://raw.githubusercontent.com/currantino/physics-3.11/master/plots/voltage(frequency).png).png|
+|![image2](https://raw.githubusercontent.com/currantino/physics-3.11/master/plots/omega_res(1c).png)|
 |:--:|
 |Рис. 2|
 
